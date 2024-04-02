@@ -20,8 +20,8 @@ Para poder fazer uso do estacionamento, o setor de vigilância irá conferir se 
 
 ![alt text](caso_uso.png)
 
-### 1- DashBoard - Área de login/logout (40% da nota)
-- Com uso de sessões (sessions), criar uma área de login. Permitir encessar sessão (logout). Para realizar login/logout, necessário ter um único login e senha.
+### 1- DashBoard - Área de login/logout
+- Com uso de sessões (sessions), criar uma área de login. Permitir encerrar sessão (logout). Para realizar login/logout, necessário ter um único login e senha.
 - Login: <b>portaria</b>
 - Senha: <b>FatecAraras</b>
 
@@ -40,7 +40,7 @@ José da Silva|202311111111|ABC1234
 <br>
 Maria de Souza|202322222222|ABC1234
 <br><br>
-### 3- Ler todos os registros cadastrados (30% da nota)
+### 3- Ler todos os registros cadastrados 
 - <b>Em uma área de sessão</b>, permitir ler todos os registros cadastrados nos arquivos texto. Caso não esteja em uma sessão ativa, redirecionar para a área de login.
 
 - Seu sistema terá um botão "Visualizar carros". Ao clicar, deve carregar uma página php, que irá acessar todos os registros do arquivo texto <b>carros.txt</b> e apresentar ao usuário logado.
@@ -49,31 +49,6 @@ Maria de Souza|202322222222|ABC1234
 
 - Tecnologias: PHP Estruturado.
 
-
-## Critérios de avaliação
-
-- Entregar todos os quesitos no prazo: 100% da nota.
-
-- Entregar todos os quesitos com atraso: 70% da nota.
-
-- Entregar todos os quesitos fora prazo: 0% da nota.
-
-## Prazo final
-
-Serão considerados <b>no prazo</b> os projetos publicados até o dia 02 de abril de 2024, 19h.
-
-Serão considerados <b>com atraso</b> os projetos publicados até o dia 05 de abril de 2024, 19hs.
-
-Serão considerados <b>fora do prazo </b> os projetos publicados posterior ao prazo estipulado anteriormente.
-
-## Considerações Finais
-
-Você pode consultar a documentação oficial, a documentação com o Zeal, os slides e códigos do repositório da nossa sala, e até mesmo conversar com colegas de sala.  
-<b>Mas</b> não é permitido copiar o código sem entender o que fez (popular cola). Ficou combinado que as atividades que forem cola serão zeradas na nota.
-
 <br>
-O professor publicará informes no grupo de Whatsapp abaixo:
-
-https://chat.whatsapp.com/LvGIymKOzQc5BaetmsGmSR
-
-
+<b>GIT HUB</b> - Professor Orlando Saraiva
+> https://github.com/orlandosaraivajr
