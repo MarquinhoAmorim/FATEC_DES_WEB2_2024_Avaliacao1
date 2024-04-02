@@ -50,5 +50,5 @@ Maria de Souza|202322222222|ABC1234
 - Tecnologias: PHP Estruturado.
 
 <br>
-<b>GIT HUB</b> - Professor Orlando Saraiva <br>
+<b>GIT HUB</b> | Professor Orlando Saraiva <br>
 - https://github.com/orlandosaraivajr
